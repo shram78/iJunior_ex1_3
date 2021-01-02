@@ -1,0 +1,7 @@
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\bin\Debug\iJunior_ex1.exe.config
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\bin\Debug\iJunior_ex1.exe
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\bin\Debug\iJunior_ex1.pdb
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\obj\Debug\iJunior_ex1.csprojAssemblyReference.cache
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\obj\Debug\iJunior_ex1.csproj.CoreCompileInputs.cache
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\obj\Debug\iJunior_ex1.exe
+D:\iJunior\ex1\iJunior_ex1\iJunior_ex1\obj\Debug\iJunior_ex1.pdb

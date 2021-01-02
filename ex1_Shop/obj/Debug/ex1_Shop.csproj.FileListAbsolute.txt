@@ -1,0 +1,7 @@
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\bin\Debug\ex1_Shop.exe.config
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\bin\Debug\ex1_Shop.exe
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\bin\Debug\ex1_Shop.pdb
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\obj\Debug\ex1_Shop.csproj.CoreCompileInputs.cache
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\obj\Debug\ex1_Shop.exe
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\obj\Debug\ex1_Shop.pdb
+D:\iJunior\ex1\iJunior_ex1\ex1_Shop\obj\Debug\ex1_Shop.csprojAssemblyReference.cache
