@@ -1,0 +1,7 @@
+D:\iJunior\ex1\iJunior_ex1_3\exersize\bin\Debug\exersize.exe.config
+D:\iJunior\ex1\iJunior_ex1_3\exersize\bin\Debug\exersize.exe
+D:\iJunior\ex1\iJunior_ex1_3\exersize\bin\Debug\exersize.pdb
+D:\iJunior\ex1\iJunior_ex1_3\exersize\obj\Debug\Pictures.csprojAssemblyReference.cache
+D:\iJunior\ex1\iJunior_ex1_3\exersize\obj\Debug\Pictures.csproj.CoreCompileInputs.cache
+D:\iJunior\ex1\iJunior_ex1_3\exersize\obj\Debug\exersize.exe
+D:\iJunior\ex1\iJunior_ex1_3\exersize\obj\Debug\exersize.pdb

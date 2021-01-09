@@ -11,15 +11,9 @@ namespace pictures
         static void Main(string[] args)
         {
             int picturesInTheAlbum = 52;
-            int completelyFilledRows;
-            int paintingsBeyondMeasure;
-
-            Console.WriteLine($"В Вашей галерее всего {picturesInTheAlbum} картинки");
-            Console.WriteLine();
-            completelyFilledRows = picturesInTheAlbum / 3;
-            paintingsBeyondMeasure = picturesInTheAlbum % 3;
-            Console.WriteLine($"У Вас будет полностью заполнено {completelyFilledRows} рядов с картинками");
-            Console.WriteLine($"{paintingsBeyondMeasure} картинка будет сверх меры");
+            Console.WriteLine($"В Вашей галерее всего {picturesInTheAlbum} картинки\n");
+            Console.WriteLine($"У Вас будет полностью заполнено {picturesInTheAlbum / 3} рядов с картинками");
+            Console.WriteLine($"{picturesInTheAlbum % 3} картинка будет сверх меры");
             Console.ReadKey();
         }
     }
