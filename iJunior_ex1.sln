@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iJunior_ex1", "iJunior_ex1\iJunior_ex1.csproj", "{644C66CC-F7D9-4C3D-8243-4562391D1F97}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex1_Shop", "ex1_Shop\ex1_Shop.csproj", "{EE1D14DF-1502-42DB-9BAC-869AE812E3EF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exersize", "exersize\exersize.csproj", "{D1BE0BF0-1452-426A-884D-B882A04C3954}"
 EndProject
 Global
@@ -15,14 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{644C66CC-F7D9-4C3D-8243-4562391D1F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{644C66CC-F7D9-4C3D-8243-4562391D1F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{644C66CC-F7D9-4C3D-8243-4562391D1F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{644C66CC-F7D9-4C3D-8243-4562391D1F97}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE1D14DF-1502-42DB-9BAC-869AE812E3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE1D14DF-1502-42DB-9BAC-869AE812E3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE1D14DF-1502-42DB-9BAC-869AE812E3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE1D14DF-1502-42DB-9BAC-869AE812E3EF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D1BE0BF0-1452-426A-884D-B882A04C3954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D1BE0BF0-1452-426A-884D-B882A04C3954}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1BE0BF0-1452-426A-884D-B882A04C3954}.Release|Any CPU.ActiveCfg = Release|Any CPU

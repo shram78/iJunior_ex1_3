@@ -10,18 +10,16 @@ namespace exersize
     {
         static void Main(string[] args)
         {
-            int counPicture = 52;//всего картин у пользователя
-            Console.WriteLine($"В Вашей галерее всего {counPicture} картинки");
+            int picturesInTheAlbum = 52;
+            int completelyFilledRows;
+            int paintingsBeyondMeasure;
+
+            Console.WriteLine($"В Вашей галерее всего {picturesInTheAlbum} картинки");
             Console.WriteLine();
-
-            int calcGalleryFull; //в переменной будет подсчет возможных полных рядов
-            int calcGalletyLeft; //в переменной будет храниться картины, не входящие в полный ряд
-
-            calcGalleryFull = counPicture / 3;
-            calcGalletyLeft = counPicture % 3;
-
-            Console.WriteLine($"У Вас будет полностью заполнено {calcGalleryFull} рядов с картинками");
-            Console.WriteLine($"{calcGalletyLeft} картинка будет сверх меры");
+            completelyFilledRows = picturesInTheAlbum / 3;
+            paintingsBeyondMeasure = picturesInTheAlbum % 3;
+            Console.WriteLine($"У Вас будет полностью заполнено {completelyFilledRows} рядов с картинками");
+            Console.WriteLine($"{paintingsBeyondMeasure} картинка будет сверх меры");
             Console.ReadKey();
         }
     }
