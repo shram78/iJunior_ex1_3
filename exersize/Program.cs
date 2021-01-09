@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exersize
+namespace pictures
 {
     class Program
     {
